@@ -560,7 +560,7 @@ mesh. Configure a separate build with:
 
 .. code-block:: bash
 
-   cmake -B build-id -DPROBLEM=id_solve
+   cmake -B build-id -DPROBLEM=z4c/id_solve
    cmake --build build-id -j
 
 Then specify the file in the input:
